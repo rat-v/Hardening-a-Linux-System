@@ -1,4 +1,4 @@
-# Hardening-a-Linux-System
+# Hardening-a-Linux-System 
 ## Skills Learned
 Using Nmap to find vulnerable services<br>
 Using FTP to access and browse files, including Linux's "passwd" and "shadow" files<br>
